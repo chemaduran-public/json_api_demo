@@ -1,22 +1,26 @@
 {
   "ventas": [
     {
+      "id": 1,
       "fecha": "Apr 21, 2020, 11:14:26 AM",
       "cliente": "Pepito",
       "detalle": [
         {
+          "id": 1,
           "producto": "Ferrari GTB 488",
           "importe": 258000.0,
           "precioUnitario": 258000.0,
           "cantidad": 1
         },
         {
+          "id": 2,
           "producto": "Tata nano",
           "importe": 5100.0,
           "precioUnitario": 1700.0,
           "cantidad": 3
         },
         {
+          "id": 3,
           "producto": "Ford Mondeo",
           "importe": 60000.0,
           "precioUnitario": 30000.0,
@@ -25,16 +29,19 @@
       ]
     },
     {
+      "id": 2,
       "fecha": "Apr 22, 2020, 12:27:36 AM",
       "cliente": "Juanito",
       "detalle": [
         {
+          "id": 4,
           "producto": "Jaguar I-Pace",
           "importe": 161140.0,
           "precioUnitario": 80570.0,
           "cantidad": 2
         },
         {
+          "id": 5,
           "producto": "Renault City K-ZE",
           "importe": 21000.0,
           "precioUnitario": 7000.0,
